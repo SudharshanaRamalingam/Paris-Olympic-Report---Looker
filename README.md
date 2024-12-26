@@ -22,7 +22,7 @@ Highlights the youngest stars of the Olympics and their medal-winning performanc
 6. Discipline-Wise Medal Count
 Breaks down medal counts by sport or discipline, providing a detailed view of which events yield the most medals.
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 **Looker**: For data visualization and interactive dashboards./
 Data Source: Official Paris Olympics data (or publicly available datasets for simulation).
